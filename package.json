@@ -1,8 +1,15 @@
 {
-  "name": "status",
+  "name": "express",
   "version": "1.0.0",
   "description": "a",
-  "main": "a",
+  "main": "app.js",
+  "deoebdebcues": {
+    "exoress":"4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+  
   "scripts": {
     "test": "d"
   },
